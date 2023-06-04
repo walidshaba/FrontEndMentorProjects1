@@ -1,0 +1,28 @@
+[debug] [2023-06-04T22:46:10.815Z] ----------------------------------------------------------------------
+[debug] [2023-06-04T22:46:10.822Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Musa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-04T22:46:10.823Z] CLI Version:   12.3.0
+[debug] [2023-06-04T22:46:10.824Z] Platform:      win32
+[debug] [2023-06-04T22:46:10.824Z] Node Version:  v18.13.0
+[debug] [2023-06-04T22:46:10.827Z] Time:          Sun Jun 04 2023 23:46:10 GMT+0100 (West Africa Standard Time)
+[debug] [2023-06-04T22:46:10.827Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-04T22:46:10.855Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-04T22:46:10.857Z] > authorizing via signed-in user (musamohshaba@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Musa\Documents\VS Code\Web\frontEndMentor\results-summary-component-main\results-summary-component-main
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
